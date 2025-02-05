@@ -4,6 +4,7 @@
 สร้างและทดสอบ Science Plan ผ่าน Virtual Telescope
 ส่ง Science Plan ไปยังระบบ (Include)
 จัดการข้อมูลดาราศาสตร์ที่เก็บรวบรวม (Extend → ตรวจสอบและจัดการข้อมูล)
+
 2.Science Observer (ผู้สังเกตการณ์วิทยาศาสตร์)
 
 ตรวจสอบ Science Plan

@@ -1,3 +1,4 @@
+![usecase diagram](https://github.com/ICT-Mahidol/2024-ITDS361-Gemini3/blob/master/Screenshot%202025-02-05%20225219.png)
 Astronomer (นักดาราศาสตร์)
 
 สร้างและทดสอบ Science Plan ผ่าน Virtual Telescope

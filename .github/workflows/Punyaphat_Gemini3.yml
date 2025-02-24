@@ -3,7 +3,7 @@ name: Java CI
 on:
   push:
     branches:
-       ["master"]
+       ["Punyaphat"]
 
 jobs:
   build:
@@ -23,6 +23,6 @@ jobs:
 
     - name: Compile Java
       run: |
-        cd ["master"]/HolidayTravelVehicles 
+        cd ["Punyaphat"]/HolidayTravelVehicles 
         javac -d . *.java
       # Compile java file from directory

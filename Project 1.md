@@ -30,4 +30,10 @@ Alternate/Exceptional Flow:
 •	If there is a technical issue with system validation, the Science Observer reports it to system support
 
 Activity Diagram
-![image](https://imgur.com/a/NSkVHu8)
+![image](https://github.com/user-attachments/assets/76968ced-eea2-4a79-acb3-bf80297b0692)
+
+Sequence Diagrams
+![image](https://github.com/user-attachments/assets/60fd49ee-4436-4341-8bc4-0d146be89025)
+
+
+

@@ -1,21 +1,23 @@
 
-Use Case Name: transform Science Plan to Observing Program	ID:UC002	Importance Level: High
-Primary Actor: Science Observer	Use Case Type: User-driven
-Stakeholders and Interests:
-Science Observer: Needs to accurately transform a Science Plan into an Observing Program to ensure correct execution
-Astronomer: Depends on the transformation process to ensure the proposed observations are correctly scheduled
-Telescope Operator: Uses the Observing Program to control the telescope and execute the observations
-Observatory System: Stores and processes the transformed Observing Program for scheduling and execution
-Brief Description: This use case describes how a Science Observer takes an approved Science Plan and transforms it into an Observing Program, ensuring it is correctly formatted and contains all necessary parameters for execution by the observatory system
-Trigger:
-Science Plan is approved and submitted to the system.
-Type: User-Initiated
-Relationships:
-    Association: Science Observer    
-    Include: -
-    Extend: -
-    Generalization: -
-Normal Flow of Events:
+Use Case Name: transform Science Plan to Observing Program	  
+ID: UC002	  
+Importance Level: High  
+Primary Actor: Science Observer	  
+Use Case Type: User-driven  
+Stakeholders and Interests:  
+Science Observer: Needs to accurately transform a Science Plan into an Observing Program to ensure correct execution  
+Astronomer: Depends on the transformation process to ensure the proposed observations are correctly scheduled  
+Telescope Operator: Uses the Observing Program to control the telescope and execute the observations  
+Observatory System: Stores and processes the transformed Observing Program for scheduling and execution  
+Brief Description: This use case describes how a Science Observer takes an approved Science Plan and transforms it into an Observing Program, ensuring it is correctly formatted and contains all necessary parameters for execution by the observatory system  
+Trigger: Science Plan is approved and submitted to the system.  
+Type: User-Initiated  
+Relationships:  
+    Association: Science Observer      
+    Include: -  
+    Extend: -  
+    Generalization: -  
+    Normal Flow of Events:
 1.	The Science Observer retrieves an approved Science Plan from the system
 2.	The system provides the necessary observation parameters
 3.	The Science Observer verifies and adjusts observation parameters if needed
@@ -32,7 +34,8 @@ Alternate/Exceptional Flow:
 Activity Diagram
 ![image](https://github.com/user-attachments/assets/76968ced-eea2-4a79-acb3-bf80297b0692)
 
-Sequence Diagrams
+Sequence Diagrams  
+
 ![image](https://github.com/user-attachments/assets/60fd49ee-4436-4341-8bc4-0d146be89025)
 
 

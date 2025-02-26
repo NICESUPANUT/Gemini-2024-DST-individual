@@ -1,7 +1,7 @@
 ## **Class Diagram**
 ![image](https://github.com/user-attachments/assets/01620126-7666-45f6-87c6-93af594e3c48)
 
-================================================================================================
+============================================================================================
 
 ## **Usecase Description UC001**
 ![image](https://github.com/user-attachments/assets/61bd0c2c-0ea2-4f24-a473-0ecbe06459e0)
@@ -13,7 +13,7 @@
 ## **Sequence Diagrams UC001**  
 ![image](https://github.com/user-attachments/assets/54f8fbd0-6619-480e-aff9-513df261713c)
 
-================================================================================================
+============================================================================================
 
 ## **Usecase Description UC002**
 ![image](https://github.com/user-attachments/assets/93f8ea3c-f426-439f-90f4-d604c0931505)
@@ -26,7 +26,7 @@
 ## **Sequence Diagrams UC002**  
 ![image](https://github.com/user-attachments/assets/60fd49ee-4436-4341-8bc4-0d146be89025)
 
-================================================================================================
+============================================================================================
 
 ## **Usecase Description UC003**
 ![image](https://github.com/user-attachments/assets/78e818cf-9a21-4869-beb6-bb639a02465e)
@@ -38,7 +38,7 @@
 ## **Sequence Diagrams UC003**  
 ![Sequence Diagrams](https://github.com/user-attachments/assets/33223343-7df5-42b3-96df-57a0ddb94561)
 
-================================================================================================
+============================================================================================
 
 ## **Usecase Description UC004**
 ![image](https://github.com/user-attachments/assets/569cd7ed-2e39-4329-965f-f8d8e4e8172d)
@@ -49,7 +49,7 @@
 ## **Sequence Diagrams UC004**  
 ![image](https://github.com/user-attachments/assets/9aa209c1-efee-428f-8a35-d403137e8278)
 
-================================================================================================
+============================================================================================
 
 ## **Usecase Description UC005**
 ![image](https://github.com/user-attachments/assets/c57115dd-615f-4f8a-a46d-89c16cf7846f)

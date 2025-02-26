@@ -29,6 +29,21 @@
 ![image](https://github.com/user-attachments/assets/60fd49ee-4436-4341-8bc4-0d146be89025)
 
 =========================================================================================
+## **Usecase Description UC003**
+
+![image](https://github.com/user-attachments/assets/94237524-1040-4a88-a6cf-5e0ce6416f79)
+![image](https://github.com/user-attachments/assets/c6fbd544-fb8f-4b87-a992-4afd5df973c0)
+
+## **Activity Diagram UC003**
+
+![Activity Diagram_ Submit Observing Program to the System (1)](https://github.com/user-attachments/assets/56e18b81-46b7-4d65-90c8-99e84c891bf4)
+
+## **Sequence Diagrams UC003**  
+
+![Sequence Diagrams](https://github.com/user-attachments/assets/33223343-7df5-42b3-96df-57a0ddb94561)
+
+
+=========================================================================================
 ## **Usecase Description UC004**
 ![image](https://github.com/user-attachments/assets/41a4f501-01ce-4129-95af-607768fd7085)
 

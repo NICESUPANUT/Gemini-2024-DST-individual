@@ -29,3 +29,5 @@ Alternate/Exceptional Flow:
 •	If the system detects missing data in the Observing Program, it notifies the Science Observer for revision
 •	If there is a technical issue with system validation, the Science Observer reports it to system support
 
+Activity Diagram
+![imange](https://imgur.com/a/NSkVHu8)

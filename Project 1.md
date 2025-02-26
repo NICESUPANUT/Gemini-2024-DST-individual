@@ -1,5 +1,5 @@
 ## **Class Diagram**
-![image](https://github.com/user-attachments/assets/ac699d76-97f4-481a-b3d7-0e6b42bff80e)
+![image](https://github.com/user-attachments/assets/01620126-7666-45f6-87c6-93af594e3c48)
 
 
 | **Use Case Name:** transform Science Plan to Observing Program | **ID:** UC002 | **Importance Level:** High |

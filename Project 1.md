@@ -16,7 +16,7 @@ Relationships:
     Association: Science Observer      
     Include: -  
     Extend: -  
-    Generalization: -  
+    Generalization: -    
     Normal Flow of Events:
 1.	The Science Observer retrieves an approved Science Plan from the system
 2.	The system provides the necessary observation parameters
@@ -24,7 +24,7 @@ Relationships:
 4.	The Science Observer converts the Science Plan into an Observing Program format
 5.	The system validates the transformed Observing Program for completeness and correctness
 6.	If validation is successful, the Science Observer submits the Observing Program to the system
-Subflows:
+   Subflows:
 •	If the Science Plan contains errors or missing information, the Science Observer requests corrections
 •	The Science Observer may consult with the Astronomer to clarify scientific objectives
 Alternate/Exceptional Flow:

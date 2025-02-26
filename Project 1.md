@@ -1,3 +1,82 @@
+# Observe Science Plan
+
+## Use Case ID: UC001
+**Importance Level:** Medium  
+**Primary Actor:** Science Observer  
+**Use Case Type:** Detail, Essential  
+
+## Stakeholders and Interests
+1. **Science Observer** - Ability to edit or correct errors directly.
+2. **System** - Accurately displays science plan details, tracks, and updates the status of science plans and observations.
+
+## Brief Description
+Science Observer observes the science plans submitted by astronomers into the system.
+
+## Trigger
+Science Observer wants to observe the science plan.
+
+## Type
+User-Driven Process
+
+## Relationships
+- **Association:** Science Observer, System
+- **Include:** Transform Science Plan to Observing Program
+- **Extend:** None
+- **Generalization:** None
+
+---
+
+## Normal Flow of Events
+1. The Science Observer selects a Science Plan to review.
+2. The System displays the details of the selected science plan.
+3. The Science Observer reviews the science plan for accuracy.
+4. The Science Observer confirms the observation or requests further actions.
+5. The System records the observation status and updates the plan accordingly.
+
+---
+
+## Subflows
+### (3a) Viewing Additional Science Data
+- The observer wants to see more detailed data (e.g., historical observations).
+- **System Response:**
+  - Retrieves and displays the requested data.
+  - The observer can continue the review with this additional context.
+
+### (3b) Handling Data Errors in Science Plan
+- The observer reviews the science plan details and detects incomplete or incorrect data.
+- **System Response:**
+  - Highlights missing or invalid fields.
+  - Allows the observer to edit and correct the data directly.
+  - Saves changes and returns to the review step.
+
+### (4a) Observation Cancellation
+- The observer confirms or cancels the observation.
+- **System Response:**
+  - Saves any changes as a draft.
+  - Allows the observer to resume later without losing progress.
+
+---
+
+## Alternate/Exceptional Flow
+### (2a) Science Plan Not Found
+- When the system attempts to display the science plan but it is deleted or unavailable.
+- **System Response:**
+  - Shows an error message: `"Science Plan not found."`
+  - Redirects the observer to the selection screen.
+
+### (5a) System Crash
+- When the system records the observation status but crashes.
+- **System Response:**
+  - Auto-saves observation progress.
+  - Notifies the observer and allows them to resume when the system recovers.
+
+---
+
+## Diagrams
+![Activity Diagram](![image](https://github.com/user-attachments/assets/0c38112a-01d3-4a0f-b6a6-9bc9afe917e4)  
+![Sequence Diagram](![image](https://github.com/user-attachments/assets/0a98c854-6d44-4f46-b3cd-6d3628bebfdb)
+
+
 | **Use Case Name:** transform Science Plan to Observing Program | **ID:** UC002 | **Importance Level:** High |
 |--------------------------------------|------|------------------|
 | **Primary Actor:** Science Observer | **Use Case Type:** User-driven |

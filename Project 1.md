@@ -3,6 +3,19 @@
 
 =========================================================================================
 
+## **Usecase Description UC001**
+![image](https://github.com/user-attachments/assets/61bd0c2c-0ea2-4f24-a473-0ecbe06459e0)
+![image](https://github.com/user-attachments/assets/48aaafaa-aeae-42d7-8096-b36990e05428)
+
+## **Activity Diagram UC001**
+![image](https://github.com/user-attachments/assets/868f9db5-c9fa-4299-91a9-437f06410467)
+
+## **Sequence Diagrams UC001**  
+
+![image](https://github.com/user-attachments/assets/54f8fbd0-6619-480e-aff9-513df261713c)
+
+=========================================================================================
+
 ## **Usecase Description UC002**
 ![image](https://github.com/user-attachments/assets/93f8ea3c-f426-439f-90f4-d604c0931505)
 ![image](https://github.com/user-attachments/assets/fce358ad-41d8-4254-be67-6282e7420f63)
